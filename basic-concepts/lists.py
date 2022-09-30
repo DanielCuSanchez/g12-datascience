@@ -1,4 +1,4 @@
-# Lists items are indexed, they can have duplicated values and they can be ordered, changeable
+# Lists: They are indexed, they can have duplicated values and they can be ordered, changeable
 myList = ["Zaira","Ali", "David", "Joel", "Luis", "Luis"]
 myList[5] = "Juan"
 
