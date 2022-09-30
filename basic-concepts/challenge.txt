@@ -1,0 +1,6 @@
+Instrucciones del RETO.
+
+1) Crear un programa que genere un numero aleatorio en un rango pequeño.
+2) Ingresar un numero y compararlo con el numero aleatorio creado.
+3) Devolver al usuario una retro si le atino al numero o no.
+4) Generar un ciclo para que el usuario tenga 3 oportunidades.
