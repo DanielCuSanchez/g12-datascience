@@ -1,0 +1,8 @@
+Instrucciones del RETO 2.
+
+A partir del programa ejemplo de pass-gen elegir:
+
+1) Ingresar una pass en texto plano y encryptarla (Salida: pass encriptada)
+2) Mostrar un menu de opciones y darle al usuario alternativas para generar la password a la medida.(Salida: pass generada de forma random con las opciones a la medida)
+
+Al finalizar mostrar su codigo en su respectivo repo.
